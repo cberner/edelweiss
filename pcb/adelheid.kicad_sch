@@ -1197,6 +1197,7 @@
     )
   )
 
+
   (junction (at 34.29 121.92) (diameter 0) (color 0 0 0 0)
     (uuid 00e38d63-5436-49db-81f5-697421f168fc)
   )
@@ -3869,9 +3870,6 @@
     (path "/00000000-0000-0000-0000-00005ec30aad"
       (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecef4b7"
-      (reference "#PWR0123") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecee846"
       (reference "#PWR0124") (unit 1) (value "VCC") (footprint "")
     )
@@ -4263,250 +4261,250 @@
       (reference "LS17") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec35378"
-      (reference "MX1") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX1") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42c31"
-      (reference "MX2") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX2") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6258e"
-      (reference "MX3") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
+      (reference "MX3") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91b28"
-      (reference "MX4") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.75U")
+      (reference "MX4") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.75U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec53306"
-      (reference "MX5") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-2.25U")
+      (reference "MX5") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-2.25U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e08d"
-      (reference "MX6") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
+      (reference "MX6") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec3ac28"
-      (reference "MX7") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX7") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42c65"
-      (reference "MX8") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX8") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee625c2"
-      (reference "MX9") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX9") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75f2b"
-      (reference "MX10") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX10") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91b5c"
-      (reference "MX11") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX11") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec3ff08"
-      (reference "MX12") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX12") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42bc9"
-      (reference "MX13") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX13") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62526"
-      (reference "MX14") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX14") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75e8f"
-      (reference "MX15") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX15") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91ac0"
-      (reference "MX16") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX16") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e025"
-      (reference "MX17") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
+      (reference "MX17") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec3ff3c"
-      (reference "MX18") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX18") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42a3d"
-      (reference "MX19") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX19") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6239a"
-      (reference "MX20") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX20") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75d03"
-      (reference "MX21") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX21") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91934"
-      (reference "MX22") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX22") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec42384"
-      (reference "MX23") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX23") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42aa5"
-      (reference "MX24") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX24") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62402"
-      (reference "MX25") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX25") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75d6b"
-      (reference "MX26") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX26") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9199c"
-      (reference "MX27") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX27") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9df01"
-      (reference "MX28") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-2U-ReversedStabilizers")
+      (reference "MX28") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-2U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec423b8"
-      (reference "MX29") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX29") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42a71"
-      (reference "MX30") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX30") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee623ce"
-      (reference "MX31") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX31") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75d37"
-      (reference "MX32") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX32") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91968"
-      (reference "MX33") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX33") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9decd"
-      (reference "MX34") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX34") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec42350"
-      (reference "MX35") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX35") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42b61"
-      (reference "MX36") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX36") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee624be"
-      (reference "MX37") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX37") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75e27"
-      (reference "MX38") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX38") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91a58"
-      (reference "MX39") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX39") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec4231c"
-      (reference "MX40") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX40") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42bfd"
-      (reference "MX41") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX41") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6255a"
-      (reference "MX42") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX42") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75ec3"
-      (reference "MX43") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX43") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91af4"
-      (reference "MX44") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX44") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e059"
-      (reference "MX45") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-2.75U-ReversedStabilizers")
+      (reference "MX45") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-2.75U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec45f60"
-      (reference "MX46") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX46") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee429d5"
-      (reference "MX47") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX47") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62332"
-      (reference "MX48") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX48") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75c9b"
-      (reference "MX49") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX49") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee918cc"
-      (reference "MX50") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX50") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec45f94"
-      (reference "MX51") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX51") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee429a1"
-      (reference "MX52") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX52") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee622fe"
-      (reference "MX53") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX53") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75c67"
-      (reference "MX54") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX54") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91898"
-      (reference "MX55") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX55") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9ddfd"
-      (reference "MX56") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
+      (reference "MX56") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec45f2c"
-      (reference "MX57") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX57") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee4296d"
-      (reference "MX58") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX58") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee622ca"
-      (reference "MX59") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX59") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75c33"
-      (reference "MX60") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX60") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91864"
-      (reference "MX61") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX61") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec45ef8"
-      (reference "MX62") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX62") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42ad9"
-      (reference "MX63") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX63") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62436"
-      (reference "MX64") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX64") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75d9f"
-      (reference "MX65") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX65") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee919d0"
-      (reference "MX66") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.75U")
+      (reference "MX66") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.75U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec48a14"
-      (reference "MX67") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX67") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42b95"
-      (reference "MX68") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX68") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee624f2"
-      (reference "MX69") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX69") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75e5b"
-      (reference "MX70") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-2.25U-ReversedStabilizers")
+      (reference "MX70") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-2.25U-ReversedStabilizers-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9dff1"
-      (reference "MX71") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX71") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec48a48"
-      (reference "MX72") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX72") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42b2d"
-      (reference "MX73") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX73") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6248a"
-      (reference "MX74") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1.5U")
+      (reference "MX74") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91a24"
-      (reference "MX75") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX75") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9df89"
-      (reference "MX76") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX76") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec489e0"
-      (reference "MX77") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX77") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42a09"
-      (reference "MX78") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX78") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62366"
-      (reference "MX79") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX79") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75ccf"
-      (reference "MX80") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX80") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91900"
-      (reference "MX81") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX81") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9de65"
-      (reference "MX82") (unit 1) (value "MX-LED") (footprint "ai03-MX_only:MXOnly-1U")
+      (reference "MX82") (unit 1) (value "MX-NO-LED") (footprint "ai03-MX_only:MXOnly-1U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005ec38adb"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -4525,252 +4523,6 @@
     )
     (path "/00000000-0000-0000-0000-00005ec25c97"
       (reference "R5") (unit 1) (value "1.5K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecc8720"
-      (reference "RL1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42df0"
-      (reference "RL2") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6274d"
-      (reference "RL3") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91ce7"
-      (reference "RL4") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec532ca"
-      (reference "RL5") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e24c"
-      (reference "RL6") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005eccda72"
-      (reference "RL7") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42e48"
-      (reference "RL8") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee627a5"
-      (reference "RL9") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee7610e"
-      (reference "RL10") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91d3f"
-      (reference "RL11") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd0bc4"
-      (reference "RL12") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42e9c"
-      (reference "RL13") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee627f9"
-      (reference "RL14") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee76162"
-      (reference "RL15") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91d93"
-      (reference "RL16") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e2f8"
-      (reference "RL17") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd21e8"
-      (reference "RL18") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42e2c"
-      (reference "RL19") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62789"
-      (reference "RL20") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee760f2"
-      (reference "RL21") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91d23"
-      (reference "RL22") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd329c"
-      (reference "RL23") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42e64"
-      (reference "RL24") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee627c1"
-      (reference "RL25") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee7612a"
-      (reference "RL26") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91d5b"
-      (reference "RL27") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e2c0"
-      (reference "RL28") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd4b30"
-      (reference "RL29") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42e80"
-      (reference "RL30") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee627dd"
-      (reference "RL31") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee76146"
-      (reference "RL32") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91d77"
-      (reference "RL33") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e2dc"
-      (reference "RL34") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd5d04"
-      (reference "RL35") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42d5c"
-      (reference "RL36") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee626b9"
-      (reference "RL37") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee76022"
-      (reference "RL38") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91c53"
-      (reference "RL39") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd71a6"
-      (reference "RL40") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42cc4"
-      (reference "RL41") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62621"
-      (reference "RL42") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75f8a"
-      (reference "RL43") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91bbb"
-      (reference "RL44") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e120"
-      (reference "RL45") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd83aa"
-      (reference "RL46") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42f38"
-      (reference "RL47") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62895"
-      (reference "RL48") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee761fe"
-      (reference "RL49") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91e2f"
-      (reference "RL50") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecd912e"
-      (reference "RL51") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42d20"
-      (reference "RL52") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee6267d"
-      (reference "RL53") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75fe6"
-      (reference "RL54") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91c17"
-      (reference "RL55") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9e17c"
-      (reference "RL56") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecda332"
-      (reference "RL57") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42d78"
-      (reference "RL58") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee626d5"
-      (reference "RL59") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee7603e"
-      (reference "RL60") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91c6f"
-      (reference "RL61") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecdb0b6"
-      (reference "RL62") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42dd4"
-      (reference "RL63") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62731"
-      (reference "RL64") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee7609a"
-      (reference "RL65") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91ccb"
-      (reference "RL66") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecdc19a"
-      (reference "RL67") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42874"
-      (reference "RL68") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee621d1"
-      (reference "RL69") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75b3a"
-      (reference "RL70") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9dcd0"
-      (reference "RL71") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecdd7ee"
-      (reference "RL72") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee42890"
-      (reference "RL73") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee621ed"
-      (reference "RL74") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee91787"
-      (reference "RL75") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9dcec"
-      (reference "RL76") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ecdef02"
-      (reference "RL77") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee428ac"
-      (reference "RL78") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee62209"
-      (reference "RL79") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee75b72"
-      (reference "RL80") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee917a3"
-      (reference "RL81") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ee9dd08"
-      (reference "RL82") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005c4ef302/00000000-0000-0000-0000-00005ec69c51"
       (reference "RS1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
