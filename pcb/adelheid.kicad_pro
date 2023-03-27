@@ -560,7 +560,7 @@
       "idf": "",
       "netlist": "adelheid.net",
       "specctra_dsn": "adelheid.dsn",
-      "step": "",
+      "step": "adelheid.step",
       "vmrl": "",
       "vrml": ""
     },
